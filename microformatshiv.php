@@ -2,7 +2,7 @@
 /*
 Plugin Name: Microformat Shiv
 Plugin URI: http://www.ramoonus.nl
-Description: Adds thr Microformat Shiv API to your website.
+Description: Adds the Microformat Shiv API to your website.
 Version: 1.0.0
 Author: Ramoonus
 Author URI: http://www.ramoonus.nl/wordpress/microformatshiv/
