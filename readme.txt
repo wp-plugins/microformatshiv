@@ -6,9 +6,9 @@ Requires at least: 3.0.0
 Tested up to: 3.2
 Stable tag: 1.0.0
 
--description here-
+Adds thr Microformat Shiv API to your website.
 == Description ==
-Browsers should come with APIs to parse semantic content such as microformats, unfortunately this has yet to happen. The microformat shiv provides a simple to use, light-weight, cross-browser microformat API. It even works with modern mobile browsers and is backward compatible with Internet Explore 6.
+Browsers should come with APIs to parse semantic content such as microformats, unfortunately this has yet to happen. The microformat shiv provides a simple to use, light-weight, cross-browser microformat API. It even works with modern mobile browsers and is backward compatible with Internet Explorer 6.
 The microformat shiv is based on the microformat API for Mozilla's extensions. This is the same code base as the popular Operator plug-in.
 
 == Installation ==
@@ -26,4 +26,4 @@ Not relevant.
 
 == Changelog ==
 = 1.0.0 =
-* First version, uses Microformat Shiv 0.2 (january 2011)
+* First version, uses Microformat Shiv 0.2 (28 january 2011)
