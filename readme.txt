@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: ramoonus
 Donate link: http://www.ramoonus.nl
-Tags: html5, html, javascript, ie, internet explorer, css 3, css3, microformat, microformats, 
+Tags: html5, html, javascript, ie, internet explorer, css 3, css3, microformat, microformats, adopt-me
 Requires at least: 3.0.0
-Tested up to: 3.2
-Stable tag: 1.0.0
+Tested up to: 3.9.1
+Stable tag: 1.0.1
 
 Adds the Microformat Shiv API to your website.
 == Description ==
@@ -25,5 +25,10 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.0.1 =
+* Code improvement
+* Front-end speed improvement
+* Updated the javascript
+
 = 1.0.0 =
 * First version, uses Microformat Shiv 0.2 (28 january 2011)
