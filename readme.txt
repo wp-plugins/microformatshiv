@@ -3,7 +3,7 @@ Contributors: ramoonus
 Donate link: http://www.ramoonus.nl
 Tags: html5, html, javascript, ie, internet explorer, css 3, css3, microformat, microformats, adopt-me
 Requires at least: 3.9
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: 1.0.1
 
 Adds the Microformat Shiv API to your website.
